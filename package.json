@@ -1,0 +1,14 @@
+{
+  "name": "guangjian",
+  "version": "1.0.0",
+  "description": "guangjian's resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "guangjian",
+  "license": "ISC",
+  "bin": {
+    "resume-me": "./index.js"
+  }
+}
